@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Dennis
 
-<!--
-**denniscaiza/denniscaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta crear cosas para la web. HTML es lo que mejor conozco y estoy aprendiendo Python mientras construyo proyectos pequeños.
 
-Here are some ideas to get you started:
+## En qué estoy enfocado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Escribir HTML claro y bien organizado
+- Aprender los fundamentos de Python con práctica
+- Compartir proyectos y documentar lo que voy aprendiendo
+
+## Tecnologías
+
+- HTML
+- Python (aprendiendo)
+
+Puedes ver mis proyectos en mis [repositorios de GitHub](https://github.com/denniscaiza?tab=repositories).
