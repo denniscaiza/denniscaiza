@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Dennis - HTML and Python learner</title>
+  <desc id="desc">A custom terminal inspired banner for a web developer learning Python.</desc>
+  <rect width="1200" height="340" fill="#172126"/>
+  <path d="M0 0h1200v10H0z" fill="#b8de29"/>
+  <path d="M40 48v244" stroke="#51625d" stroke-width="2"/>
+  <path d="M64 276h550" stroke="#51625d" stroke-width="2"/>
+  <text x="82" y="139" fill="#f1f3ed" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700">DENNIS</text>
+  <text x="85" y="184" fill="#b8de29" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">WEB CON HTML</text>
+  <text x="85" y="218" fill="#b8c4be" font-family="Arial, Helvetica, sans-serif" font-size="18">Python en aprendizaje</text>
+  <rect x="755" y="51" width="387" height="238" rx="8" fill="#202d32" stroke="#51625d" stroke-width="2"/>
+  <path d="M755 95h387" stroke="#51625d" stroke-width="2"/>
+  <circle cx="780" cy="73" r="6" fill="#f07d5b"/>
+  <circle cx="801" cy="73" r="6" fill="#f4bf42"/>
+  <circle cx="822" cy="73" r="6" fill="#b8de29"/>
+  <text x="784" y="139" fill="#53c9ba" font-family="monospace" font-size="19">&lt;html&gt;</text>
+  <text x="814" y="174" fill="#f1f3ed" font-family="monospace" font-size="19">ideas -&gt; pages</text>
+  <text x="784" y="222" fill="#f07d5b" font-family="monospace" font-size="19">print("hola")</text>
+  <text x="784" y="260" fill="#b8c4be" font-family="monospace" font-size="15">aprendiendo, construyendo, compartiendo</text>
+</svg>
